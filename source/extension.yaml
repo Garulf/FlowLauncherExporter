@@ -5,3 +5,8 @@ Version: 1.0
 Module: FlowLauncherExporter.psm1
 Type: Script
 Icon: icon.png
+Links:
+  - Name: Github
+    Url: https://github.com/Garulf/FlowLauncherExporter
+  - Name: Support
+    Url: https://github.com/Garulf/FlowLauncherExporter/issues
