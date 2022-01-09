@@ -1,0 +1,6 @@
+﻿Id: FlowLauncherExporter
+Name: Flow Launcher Exporter
+Author: Garulf
+Version: 1.0
+Module: FlowLauncherExporter.psm1
+Type: Script
