@@ -20,12 +20,12 @@ function OnApplicationStarted()
     ExportLibrary
 }
 
-function OnGameInstalled 
+function OnGameInstalled()
 {
     ExportLibrary
 }
 
-function OnGameUninstalled 
+function OnGameUninstalled() 
 {
     ExportLibrary
 }
