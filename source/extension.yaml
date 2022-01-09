@@ -4,3 +4,4 @@ Author: Garulf
 Version: 1.0
 Module: FlowLauncherExporter.psm1
 Type: Script
+Icon: icon.png
