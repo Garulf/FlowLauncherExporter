@@ -6,7 +6,7 @@ function ExportLibrary()
 
     $path = $PlayniteApi.Paths.ExtensionsDataPath
     $full_path = Join-Path -Path $path -ChildPath "FlowLauncherExporter" | Join-Path -ChildPath "library.json"
-    $PlayniteApi.Database.Games | Select Id, Name, Source, ReleaseDate, Playtime, IsInstalled, InstallDirectory, Icon | ConvertTo-Json | Out-File $full_path -Encoding utf8
+    $PlayniteApi.Database.Games | Select Id, Name, Source, ReleaseDate, Playtime, IsInstalled, InstallDirectory, Icon, Hidden | ConvertTo-Json | Out-File $full_path -Encoding utf8
 
 }
 
