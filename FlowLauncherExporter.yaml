@@ -3,4 +3,4 @@ Packages:
   - Version: 2.0
     RequiredApiVersion: 6.0.0
     ReleaseDate: 2022-01-09
-    PackageUrl: https://github.com/Garulf/FlowLauncherExporter/releases/download/v1.1/FlowLauncherExporter.pext
+    PackageUrl: https://github.com/Garulf/FlowLauncherExporter/releases/download/v2.0/FlowLauncherExporter.pext
